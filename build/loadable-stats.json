@@ -1,0 +1,180 @@
+{
+  "name": "web",
+  "hash": "bd8580306b176ea7dc1c",
+  "publicPath": "/",
+  "outputPath": "/Users/yuxin.zxy/Documents/workspace/Practice/github-test/ice-ssr-test/build",
+  "assetsByChunkName": {
+    "index": [
+      "css/index.css",
+      "js/index.js"
+    ],
+    "components-IssueEditor": [
+      "js/components-IssueEditor.js"
+    ]
+  },
+  "assets": [
+    {
+      "type": "asset",
+      "name": "js/index.js",
+      "size": 3872637,
+      "emitted": false,
+      "comparedForEmit": false,
+      "cached": true,
+      "info": {
+        "javascriptModule": false,
+        "related": {
+          "sourceMap": "js/index.js.map"
+        }
+      },
+      "chunkNames": [
+        "index"
+      ],
+      "chunkIdHints": [],
+      "auxiliaryChunkNames": [],
+      "auxiliaryChunkIdHints": [],
+      "filteredRelated": 1,
+      "chunks": [
+        "index"
+      ],
+      "auxiliaryChunks": []
+    },
+    {
+      "type": "asset",
+      "name": "css/index.css",
+      "size": 1301908,
+      "emitted": false,
+      "comparedForEmit": false,
+      "cached": true,
+      "info": {
+        "related": {
+          "sourceMap": "css/index.css.map"
+        }
+      },
+      "chunkNames": [
+        "index"
+      ],
+      "chunkIdHints": [],
+      "auxiliaryChunkNames": [],
+      "auxiliaryChunkIdHints": [],
+      "filteredRelated": 1,
+      "chunks": [
+        "index"
+      ],
+      "auxiliaryChunks": []
+    },
+    {
+      "type": "asset",
+      "name": "favicon.png",
+      "size": 4943,
+      "emitted": false,
+      "comparedForEmit": false,
+      "cached": true,
+      "info": {
+        "copied": true,
+        "sourceFilename": "public/favicon.png",
+        "minimized": true
+      },
+      "chunkNames": [],
+      "chunkIdHints": [],
+      "auxiliaryChunkNames": [],
+      "auxiliaryChunkIdHints": [],
+      "chunks": [],
+      "auxiliaryChunks": []
+    },
+    {
+      "type": "asset",
+      "name": "js/components-IssueEditor.js",
+      "size": 2299,
+      "emitted": false,
+      "comparedForEmit": false,
+      "cached": true,
+      "info": {
+        "javascriptModule": false,
+        "related": {
+          "sourceMap": "js/components-IssueEditor.js.map"
+        }
+      },
+      "chunkNames": [
+        "components-IssueEditor"
+      ],
+      "chunkIdHints": [],
+      "auxiliaryChunkNames": [],
+      "auxiliaryChunkIdHints": [],
+      "filteredRelated": 1,
+      "chunks": [
+        "components-IssueEditor"
+      ],
+      "auxiliaryChunks": []
+    },
+    {
+      "type": "asset",
+      "name": "index.html",
+      "size": 304,
+      "emitted": false,
+      "comparedForEmit": false,
+      "cached": true,
+      "info": {},
+      "chunkNames": [],
+      "chunkIdHints": [],
+      "auxiliaryChunkNames": [],
+      "auxiliaryChunkIdHints": [],
+      "chunks": [],
+      "auxiliaryChunks": []
+    }
+  ],
+  "namedChunkGroups": {
+    "index": {
+      "name": "index",
+      "chunks": [
+        "index"
+      ],
+      "assets": [
+        {
+          "name": "css/index.css"
+        },
+        {
+          "name": "js/index.js"
+        }
+      ],
+      "filteredAssets": 0,
+      "assetsSize": null,
+      "filteredAuxiliaryAssets": 2,
+      "auxiliaryAssetsSize": null,
+      "children": {},
+      "childAssets": {}
+    },
+    "components-IssueEditor": {
+      "name": "components-IssueEditor",
+      "chunks": [
+        "components-IssueEditor"
+      ],
+      "assets": [
+        {
+          "name": "js/components-IssueEditor.js"
+        }
+      ],
+      "filteredAssets": 0,
+      "assetsSize": null,
+      "filteredAuxiliaryAssets": 1,
+      "auxiliaryAssetsSize": null,
+      "children": {},
+      "childAssets": {}
+    }
+  },
+  "generator": "loadable-components",
+  "chunks": [
+    {
+      "id": "index",
+      "files": [
+        "css/index.css",
+        "js/index.js"
+      ]
+    },
+    {
+      "id": "components-IssueEditor",
+      "files": [
+        "js/components-IssueEditor.js"
+      ]
+    }
+  ]
+}
