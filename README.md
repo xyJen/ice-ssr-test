@@ -1,1 +1,2 @@
-开启ssr后，Dashboard 中组件lazy出错
+ - 开启ssr后，Dashboard 中组件lazy出错
+ - 使用 `yarn analyzer`, 报错：Error: listen EADDRINUSE: address already in use 127.0.0.1:9000
