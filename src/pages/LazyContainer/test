@@ -1,0 +1,5 @@
+fweyep
+
+	EnableThpHandle              *bool  `json:"enableThpHandle,omitempty"`
+
+	EnableThpHandle              *bool            `json:"enableThpHandle,omitempty"`
